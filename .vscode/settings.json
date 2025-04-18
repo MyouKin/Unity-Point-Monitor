@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "pycontact.sln"
+    "dotnet.defaultSolution": "Unity-Point-Monitor.sln"
 }
